@@ -1,3 +1,11 @@
+# Moje poznámky
+
+```bash
+cookiecutter https://github.com/data4sci/data-science-stack-cookiecutter.git
+```
+
+
+
 # Data Science Stack - Cookiecutter
 [![Maintainers Wanted](https://img.shields.io/badge/maintainers-wanted-red.svg)](https://github.com/pickhardt/maintainers-wanted)
 
