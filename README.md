@@ -1,9 +1,14 @@
 # Moje poznámky
 
+crate cookiecutter folder structure
 ```bash
 cookiecutter https://github.com/data4sci/data-science-stack-cookiecutter.git
 ```
 
+run just jupyter
+```bash
+docker run -d -p 8888:8888 jupyter/scipy-notebook
+```
 
 
 # Data Science Stack - Cookiecutter
