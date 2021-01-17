@@ -1,5 +1,7 @@
 # Moje poznámky
 
+## CLI 
+
 crate cookiecutter folder structure
 ```bash
 cookiecutter https://github.com/data4sci/data-science-stack-cookiecutter.git
@@ -9,7 +11,10 @@ run just jupyter
 ```bash
 docker run -d -p 8888:8888 jupyter/scipy-notebook
 ```
+## TODO
 
+* audit docker kontejnerů (2 roky staré video!)
+*
 
 # Data Science Stack - Cookiecutter
 [![Maintainers Wanted](https://img.shields.io/badge/maintainers-wanted-red.svg)](https://github.com/pickhardt/maintainers-wanted)
