@@ -11,6 +11,12 @@ run just jupyter
 ```bash
 docker run -d -p 8888:8888 jupyter/scipy-notebook
 ```
+
+přidat examples do běžícího Superset kontejneru
+```bash
+docker exec -it superset superset load_examples
+```
+
 ## TODO
 
 * audit docker kontejnerů (2 roky staré video!)
