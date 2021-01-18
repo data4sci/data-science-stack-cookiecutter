@@ -28,6 +28,7 @@ docker exec -it superset superset load_examples
   * [Streamlit — The fastest way to create data apps](https://www.streamlit.io/)
   * [Deploy a Streamlit NLP WebApp with Docker -](https://maelfabien.github.io/project/Streamlit/#the-application)
   * [Deploy a machine learning application with Streamlit and Docker on AWS | by Kostas Stathoulopoulos | Towards Data Science](https://towardsdatascience.com/how-to-deploy-a-semantic-search-engine-with-streamlit-and-docker-on-aws-elastic-beanstalk-42ddce0422f3)
+  * [(124) How To Deploy Streamlit Apps with Docker - YouTube](https://www.youtube.com/watch?v=doCia_CKcko)
 
 * Datasette
   * [Datasette: An open source multi-tool for exploring and publishing data](https://datasette.io/)
