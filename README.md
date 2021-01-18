@@ -22,6 +22,28 @@ docker exec -it superset superset load_examples
 * audit docker kontejnerů (2 roky staré video!)
 *
 
+## další microservices
+
+* Streamlit
+  * [Streamlit — The fastest way to create data apps](https://www.streamlit.io/)
+  * [Deploy a Streamlit NLP WebApp with Docker -](https://maelfabien.github.io/project/Streamlit/#the-application)
+  * [Deploy a machine learning application with Streamlit and Docker on AWS | by Kostas Stathoulopoulos | Towards Data Science](https://towardsdatascience.com/how-to-deploy-a-semantic-search-engine-with-streamlit-and-docker-on-aws-elastic-beanstalk-42ddce0422f3)
+
+* Datasette
+  * [Datasette: An open source multi-tool for exploring and publishing data](https://datasette.io/)
+
+
+## docker kontejnery
+
+* Streamlit [samdobson/streamlit - Docker Hub](https://hub.docker.com/r/samdobson/streamlit)
+* FastAPI [tiangolo/uvicorn-gunicorn-fastapi Dockerfile - Docker Hub](https://hub.docker.com/r/tiangolo/uvicorn-gunicorn-fastapi/dockerfile)
+* Neo4j [neo4j - Docker Hub](https://hub.docker.com/_/neo4j/)
+* Neo4j Experimental [neo4j/neo4j-experimental - Docker Hub](https://hub.docker.com/r/neo4j/neo4j-experimental)
+* MongoDB [mongo - Docker Hub](https://hub.docker.com/_/mongo)
+>
+
+
+
 # Data Science Stack - Cookiecutter
 [![Maintainers Wanted](https://img.shields.io/badge/maintainers-wanted-red.svg)](https://github.com/pickhardt/maintainers-wanted)
 
