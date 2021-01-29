@@ -33,6 +33,14 @@ docker exec -it superset superset load_examples
 * Datasette
   * [Datasette: An open source multi-tool for exploring and publishing data](https://datasette.io/)
 
+* Dash 
+  * [Dash Documentation & User Guide | Plotly](https://dash.plotly.com/)
+  * [Part 2. Layout | Dash for Python Documentation | Plotly](https://dash.plotly.com/)
+  * [Dash Enterprise App Gallery](https://dash-gallery.plotly.host/Portal/)
+  * [Dash for Beginners - DataCamp](https://www.datacamp.com/community/tutorials/learn-build-dash-python)
+  * [The Sweet Spot of Plotly. Why Plotly is a great exploratory tool… | by Moorissa Tjokro | Towards Data Science](https://towardsdatascience.com/the-sweet-spot-of-plotly-c6e1342e3544) >Platforms like Tableau, Kibana, and Superset offer features such as dropdown that accept only one data table as an input per graph.
+
+
 
 ## docker kontejnery
 
@@ -41,9 +49,11 @@ docker exec -it superset superset load_examples
 * Neo4j [neo4j - Docker Hub](https://hub.docker.com/_/neo4j/)
 * Neo4j Experimental [neo4j/neo4j-experimental - Docker Hub](https://hub.docker.com/r/neo4j/neo4j-experimental)
 * MongoDB [mongo - Docker Hub](https://hub.docker.com/_/mongo)
->
+* 
 
 
+
+-----------------------------------------------------------------------------------------
 
 # Data Science Stack - Cookiecutter
 [![Maintainers Wanted](https://img.shields.io/badge/maintainers-wanted-red.svg)](https://github.com/pickhardt/maintainers-wanted)
