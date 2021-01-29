@@ -38,9 +38,11 @@ docker exec -it superset superset load_examples
   * [Part 2. Layout | Dash for Python Documentation | Plotly](https://dash.plotly.com/)
   * [Dash Enterprise App Gallery](https://dash-gallery.plotly.host/Portal/)
   * [Dash for Beginners - DataCamp](https://www.datacamp.com/community/tutorials/learn-build-dash-python)
-  * [The Sweet Spot of Plotly. Why Plotly is a great exploratory tool… | by Moorissa Tjokro | Towards Data Science](https://towardsdatascience.com/the-sweet-spot-of-plotly-c6e1342e3544) >Platforms like Tableau, Kibana, and Superset offer features such as dropdown that accept only one data table as an input per graph.
-
-
+  * [The Sweet Spot of Plotly. Why Plotly is a great exploratory tool… | by Moorissa Tjokro | Towards Data Science](https://towardsdatascience.com/the-sweet-spot-of-plotly-c6e1342e3544) 
+  >Platforms like Tableau, Kibana, and Superset offer features such as dropdown that accept only one data table as an input per graph.
+  * [Dash Azure Deployment](https://medium.com/swlh/deploy-a-dash-application-in-azure-using-docker-ed46c4b9d2b2)
+  * [vioquedu/docker-dash: Docker configuration to develop and deploy a Plotly Dash application](https://github.com/vioquedu/docker-dash)
+  * !!! [ploner/coronavirus-py: Simple web app showing Coronavirus case data using Python, Dash and Plotly](https://github.com/ploner/coronavirus-py)
 
 ## docker kontejnery
 
