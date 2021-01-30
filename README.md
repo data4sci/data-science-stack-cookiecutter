@@ -51,7 +51,8 @@ docker exec -it superset superset load_examples
 * Neo4j [neo4j - Docker Hub](https://hub.docker.com/_/neo4j/)
 * Neo4j Experimental [neo4j/neo4j-experimental - Docker Hub](https://hub.docker.com/r/neo4j/neo4j-experimental)
 * MongoDB [mongo - Docker Hub](https://hub.docker.com/_/mongo)
-* 
+* D-Tale [man-group/dtale: Visualizer for pandas data structures](https://github.com/man-group/dtale#docker-container)
+
 
 
 
